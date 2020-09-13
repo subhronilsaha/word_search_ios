@@ -4,6 +4,6 @@ This is a script that generates a PDF with a Wordsearch grid with words from a j
 
 ## Demo:
 
-<img src="demo.gif" width="200" autoplay loop>
+<img src="demo.gif" height="600" autoplay loop>
 
 
